@@ -1,0 +1,13 @@
+hole,atx,micromatx,x_mm,y_mm,x_in,y_in
+A,required,-,16.51,233.68,0.65,9.20
+C,required,required,140.97,233.68,5.55,9.20
+F,required,required,298.45,210.82,11.75,8.30
+G,required,-,16.51,78.74,0.65,3.10
+H,required,required,140.97,78.74,5.55,3.10
+J,required,required,298.45,78.74,11.75,3.10
+K,required,-,16.51,6.35,0.65,0.25
+L,required,required,140.97,6.35,5.55,0.25
+M,required,required,298.45,6.35,11.75,0.25
+B,-,required,95.25,233.68,3.75,9.20
+R,-,required,74.93,78.74,2.95,3.10
+S,-,required,95.25,78.74,3.75,3.10

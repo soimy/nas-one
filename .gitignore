@@ -1,0 +1,81 @@
+# ---------------------------------------------------------------------------
+# FreeCAD
+# ---------------------------------------------------------------------------
+# Auto-saved backup documents (FreeCAD > Preferences > General > Document >
+# "Create backup files"). These are throwaway snapshots, never commit them.
+*.FCBak
+*.fcbak
+*.FCStd1
+*.FCStd2
+*.FCStd3
+
+# Crash-recovery / temp artefacts
+*.FCTemp
+*.fctemp
+*.FCXt
+*.fcsd
+FreeCAD.log
+FreeCAD.pid
+
+# Parameter / cache dumps that FreeCAD drops next to documents
+*.FCParam
+user.cfg
+system.cfg
+
+# Python macros inside the repo: keep .FCMacro, ignore editor backups
+*.FCMacro.bak
+*.FCMacro1
+
+# ---------------------------------------------------------------------------
+# macOS
+# ---------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+Icon?
+Network Trash Folder
+Temporary Items
+.fseventsd
+.apdisk
+
+# ---------------------------------------------------------------------------
+# Windows
+# ---------------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
+
+# ---------------------------------------------------------------------------
+# Linux
+# ---------------------------------------------------------------------------
+*~
+.directory
+.Trash-*
+
+# ---------------------------------------------------------------------------
+# Python (FreeCAD macros / helper scripts)
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------------------
+# Editors / IDEs
+# ---------------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*#
+.vim/
